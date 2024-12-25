@@ -24,7 +24,7 @@ Explore the live demo: [WP-3D Carousel Demo](https://mmm.sh/tools/3d_slider)
 ### Clone the Repository
 1. Clone the project from GitHub:
 ```bash
-git clone https://github.com/yourusername/Wp-3D-Carousel.git
+git clone https://github.com/encryptoday/Wp-3D-Carousel.git
 ```
 2. Compress all the files
 3. Upload it into your wordpress website.
