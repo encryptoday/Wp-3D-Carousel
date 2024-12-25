@@ -4,7 +4,7 @@ WP-3D Carousel is a lightweight, responsive 3D carousel designed to enhance your
 
 ---
 
-## 🌟 Features
+## Features
 
 - **3D Rotation**: Showcases items in a 3D rotating effect.
 - **Lightweight**: Minimal dependencies for optimal performance.
