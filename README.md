@@ -27,7 +27,7 @@ Compress all the files and upload it into your wordpress website.
 
 This project uses resources and inspirations from the following:
 
-- Upgraded into a wordpress plugin by [MMM][https://mmm.sh]
+- Upgraded into a wordpress plugin by [MMM](https://mmm.sh)
 - Further Upgrades by Ildar Sagdejev
 - Original work CloudCarousel v1.0.5 by Professor Cloud (R. Cecco)
 
