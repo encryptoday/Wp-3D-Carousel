@@ -22,3 +22,13 @@ Clone the project from GitHub:
 git clone https://github.com/yourusername/Wp-3D-Carousel.git
 ```
 Compress all the files and upload it into your wordpress website.
+
+## 🙏 Attributions
+
+This project uses resources and inspirations from the following:
+
+- Upgraded into a wordpress plugin by [MMM][https://mmm.sh]
+- Further Upgrades by Ildar Sagdejev
+- Original work CloudCarousel v1.0.5 by Professor Cloud (R. Cecco)
+
+If you feel your resource should be credited here, please [open an issue](https://github.com/encryptoday/Wp-3D-Carousel/issues).
