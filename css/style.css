@@ -1,0 +1,64 @@
+#carousel .cloud9-item, #buttons button {
+    cursor: pointer;
+}
+#carousel .cloud9-item {
+    position: absolute;
+    width: 297px;
+    height: 355px;
+    overflow: hidden;
+}
+#carousel {
+    height: 460px;
+    width: 1080px;
+    margin: 0px auto;
+    background:;
+}
+#buttons {
+    display: flex;
+    justify-content: space-between;
+}
+button {
+    padding: 0px;
+    background: transparent;
+    border: none;
+}
+/*.flex-center {
+    top: -230px;
+    width: 1060px;
+    display: block;
+    margin: 0px auto;
+    position: relative;
+    z-index: 10000000000000000000000000;
+}*/
+.title {
+    text-align:center;
+    color: #434343;
+    font-family: "EB Garamond", Sans-serif;
+    font-size: 2rem;
+    font-weight: 400;
+    font-style: normal;
+    line-height: 2;
+}
+@media only screen and (max-width: 600px) {
+    .title{
+        font-size:1.67rem;
+    }
+    body {
+        margin: 0px;
+    }
+    #carousel {
+        width: 100%;
+        padding:5px 10px;
+        height: 16rem;
+        padding-top: 15px;
+    }
+    .flex-center {
+        width: 100%;
+    }
+    #carousel .cloud9-item {
+        width: 7rem !important;
+    }
+    .flex-center {
+        top: -5rem;
+    }
+}
