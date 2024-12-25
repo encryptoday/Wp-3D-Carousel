@@ -14,6 +14,9 @@ WP-3D Carousel is a lightweight, responsive 3D carousel designed to enhance your
 
 ---
 
+## Demo
+Explore the live demo: [WP-3D Carousel Demo]([https://mmm.sh/](https://mmm.sh/tools/3d_slider))
+
 ## Installation
 
 ### Clone the Repository
