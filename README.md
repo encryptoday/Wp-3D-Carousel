@@ -21,4 +21,4 @@ Clone the project from GitHub:
 ```bash
 git clone https://github.com/yourusername/Wp-3D-Carousel.git
 ```
-Compress all the files into a zip file and upload it into your wordpress website.
+Compress all the files and upload it into your wordpress website.
