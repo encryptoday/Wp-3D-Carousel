@@ -1,6 +1,6 @@
-# AP-3D Carousel
+# WP-3D Carousel
 
-AP-3D Carousel is a lightweight, responsive 3D carousel designed to enhance your web projects with a visually appealing and dynamic rotation effect. Perfect for image galleries, portfolios, and modern web interfaces.
+WP-3D Carousel is a lightweight, responsive 3D carousel designed to enhance your web projects with a visually appealing and dynamic rotation effect. Perfect for image galleries, portfolios, and modern web interfaces.
 
 ---
 
