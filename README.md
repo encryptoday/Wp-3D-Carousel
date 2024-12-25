@@ -14,7 +14,7 @@ WP-3D Carousel is a lightweight, responsive 3D carousel designed to enhance your
 
 ---
 
-## 📦 Installation
+## Installation
 
 ### Clone the Repository
 Clone the project from GitHub:
@@ -23,7 +23,7 @@ git clone https://github.com/yourusername/Wp-3D-Carousel.git
 ```
 Compress all the files and upload it into your wordpress website.
 
-## 🙏 Attributions
+## Attributions
 
 This project uses resources and inspirations from the following:
 
